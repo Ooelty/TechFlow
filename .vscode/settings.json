@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "plyconfig.json": "jsonc"
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
